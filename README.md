@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Natysrib
-- 👀 Learning  HTML 5, MYSQL
+- 👀 Learning  HTML 5, MYSQL, CSS3
 - 🌱 I’m currentleg ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
